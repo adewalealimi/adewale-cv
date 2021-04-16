@@ -1,0 +1,233 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+         background-color: rgba(73, 153, 126, 0.281);
+          font-family: "Ubuntu Condensed", sans-serif;
+  }
+
+  h4 {
+    color: green;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+  }
+
+  h1 {
+    color: green;
+    font-size: 2.9rem;
+    text-transform: uppercase;
+  }
+
+header {
+    width: 100%;
+    padding: 1em;
+  }
+  nav {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding:3em;
+  }
+
+  /* address Styles */
+div.address {
+    padding: 2rem;
+    display: flex;  
+    width: 90%;
+    justify-content: flex-end;    
+}
+
+
+div.info-address {
+    padding: 15px 10px;
+ }
+
+div.info-address p {
+    color: #11122b;
+    font-size: 1.5rem;
+    letter-spacing: 2px;
+    line-height: 30px;  
+}
+
+/* skill Styles */
+div.skill {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+div.skill-list {
+    background: #f0f0f0; 
+    padding: 15px 20px;
+    width: 550px;
+}
+
+div.skill-list p {
+    padding: 1rem;
+    color: #11122b;
+    font-size: 1.5rem;
+    letter-spacing: 2px;
+    line-height: 30px;  
+}
+
+/*prof Styles */
+div.prof {
+    padding: 20px 20px;
+    display: flex;
+    justify-content:right;  
+    width:100%; 
+}
+
+div.prof-tool {
+      padding: 15px 20px;
+}
+
+div.prof-tool p {
+    color: #11122b;
+    font-size: 1.5rem;
+    padding: 15px 20px;
+ }
+
+/*work Styles */
+div.work {
+    padding: 20px 20px;
+    display: flex;
+    justify-content:right;   
+    width:100%;   
+}
+
+div.work-list {
+     padding: 15px 20px;     
+}
+
+
+/*detail section Styles */
+div.detail-section {
+  height: 300px;
+  display: flex;
+  justify-content: right;
+  align-items: right;
+ 
+  
+}
+div.columns-wrapper {
+  width: 1000px;
+  display: flex;
+  justify-content: space-between;
+}
+
+div.column {
+  padding: 30px;
+  text-align: center;
+}
+ div.column :nth-child(2) {
+  font-size: 1.5em;
+  font-weight: 900;
+  height: 60px;
+  color: #11122b;
+}
+ div.column :nth-child(3) {
+  letter-spacing: 2px;
+  color: #11122b;
+  height: 100px; 
+  font-size: 1.5rem;
+}
+
+ div.column :nth-child(4) {
+    letter-spacing: 2px;
+    color: #11122b;
+    height:100px; 
+    font-size: 1.5rem;
+}
+
+
+/*edu Styles */
+div.edu {
+    padding: 20px 20px;
+    display: flex;
+    justify-content:right;   
+    width:100%;   
+}
+
+div.edu-history {
+    padding: 15px 20px;     
+}
+
+
+/*detail section Styles */
+div.history-section {
+  height: 300px;
+  display: flex;
+  justify-content: right;
+  align-items: right;
+ 
+  
+}
+div.columns-section {
+  width: 1000px;
+  display: flex;
+  justify-content: space-between;
+}
+
+div.column-history {
+  padding: 30px;
+  text-align: center;
+}
+ div.column-history :nth-child(2) {
+  font-size: 1.5em;
+  font-weight: 900;
+  height: 60px;
+  color: #11122b;
+}
+ div.column-history :nth-child(3) {
+  letter-spacing: 2px;
+  color: #11122b;
+  height: 100px; 
+  font-size: 1.5rem;
+}
+
+ div.column-history :nth-child(4) {
+    letter-spacing: 2px;
+    color: #11122b;
+    height:100px; 
+    font-size: 1.5rem;
+}
+
+div.column-history :nth-child(5) {
+    letter-spacing: 2px;
+    color: #11122b;
+    height:100px; 
+    font-size: 1.5rem;
+}
+
+div.column-history :nth-child(6) {
+    letter-spacing: 2px;
+    color: #11122b;
+    height:100px; 
+    font-size: 1.5rem;
+}
+
+div.column-history :nth-child(7) {
+    letter-spacing: 2px;
+    color: #11122b;
+    height:100px; 
+    font-size: 1.5rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
